@@ -15,6 +15,5 @@ public class main {
         register.save(documents3);
         System.out.println(Arrays.toString(register.getArrayDocument()));
 
-
     }
 }
